@@ -1,3 +1,5 @@
+NOTE: Vite comes with ESLint preconfigured, so there's no need to explicitly install the 'vite-plugin-eslint' plugin now.
+
 # ESLint configuration in Vite React app in VS Code
 1.  Download the ESLint extension
 
